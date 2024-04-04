@@ -36,7 +36,21 @@ III. Prescriptive Modelling
 
 * Explore several variable selection techniques to find the best possible logistic regression model to calculate closing probabilities to use in lead scoring and revenue projection
 
-## FINDINGS 
+## RESULTS 
+
+![image](https://github.com/nshah-11/bank-marketing/assets/97864887/c0f408cc-7b51-4342-aa71-fbcb29cb479c)
+
+![image](https://github.com/nshah-11/bank-marketing/assets/97864887/8c4e30f9-596a-47be-9822-00f3e89c006f)
+
+![image](https://github.com/nshah-11/bank-marketing/assets/97864887/80182328-9b92-4be2-bb32-40f62c9668c3)
+
+![image](https://github.com/nshah-11/bank-marketing/assets/97864887/3b7482aa-868a-4fd2-aa4e-34b8d6107f7a)
+
+![image](https://github.com/nshah-11/bank-marketing/assets/97864887/a9672036-352c-4fd1-b74a-6250c6193b47)
+
+![image](https://github.com/nshah-11/bank-marketing/assets/97864887/d6548ca7-092a-4af1-b34d-8745d0388df1)
+
+## RECOMMENDATIONS 
 
 Based on our EDA and the results of the models above, we have settled on the following list of recommendations for the bank in our study:
 
