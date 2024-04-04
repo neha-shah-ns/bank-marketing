@@ -69,7 +69,7 @@ Based on our EDA and the results of the models above, we have settled on the fol
 ## NAVIGATING THROUGH THIS PROJECT 
 Here is an outline of what materials you can for this project and where.
 
-* CODE: This includes R files of initial EDA as well as code for each model utilized. 
+* CODE: All coding was done in R. This includes an rmd file for EDA as well as R files each model that was built. These files can be run using RStudio.  
 
 * DATA: In addition to the UCI website, the bank_full dataset we analyzed can be found here to download. 
   
