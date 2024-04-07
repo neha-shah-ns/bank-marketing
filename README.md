@@ -74,3 +74,7 @@ Here is an outline of what materials you can for this project and where.
 * DATA: In addition to the UCI website, the bank_full dataset we analyzed can be found here to download. 
   
 Contributors: Neha Shah, Michael Holley, Suganya Natarajan, Divya Chandrasekaran
+
+## REFERENCES 
+
+Thuy, T. T. B. Customer Segmentation with the Cluster Analysis by PAM in R. My Marketing Analytics https://mymarketinganalytics.wordpress.com/2017/12/22/customer-segmentation-with-the-cluster-analysis-by-pam-in-r/ (2017).
