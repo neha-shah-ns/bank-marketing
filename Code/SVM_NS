@@ -1,6 +1,6 @@
 rm(list = ls())
 
-df <- read.csv("C:\\Users\\nehas\\Documents\\GT 2023\\MGT 6203\\Project\\bank-full.csv", sep=';')
+df <- read.csv("C:\\Users\\...\\bank-full.csv", sep=';')
 
 library(dplyr)
 library(tidyverse)
