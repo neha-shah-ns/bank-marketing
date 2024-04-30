@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{r}
 rm(list = ls())
-df <- read.csv("C:/Users/sugan/Downloads/bank_marketing_uci/bank/bank-full.csv", sep=';')
+df <- read.csv("C:/Users/.../bank-full.csv", sep=';')
 library(dplyr)
 library(tidyverse)
 library(scales)
