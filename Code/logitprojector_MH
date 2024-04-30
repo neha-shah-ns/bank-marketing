@@ -8,7 +8,7 @@ set.seed(123)
 
 ########## BEGIN DATA PREPARATION ##########
 
-data <- read.csv("C:\\Users\\mholl\\OneDrive\\Documents\\GT Local\\MGT 6203\\bank-full.csv", sep=';')
+data <- read.csv("C:\\Users\\...\\bank-full.csv", sep=';')
 df <- subset(data, select = -c(duration))
 
 # Creating date column
