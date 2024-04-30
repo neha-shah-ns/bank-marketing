@@ -78,9 +78,9 @@ suppressWarnings(suppressMessages(library(corrplot)))
 suppressWarnings(suppressMessages(library(rlang)))  
 
 #Reading Reading Both Portugese Bank Marketing datasets
-bank_idx <- read.csv("C:\\Users\\nehas\\Documents\\GT 2023\\MGT 6203\\Project\\bank-additional-full.csv", sep=';')
+bank_idx <- read.csv("C:\\Users\\...\\bank-additional-full.csv", sep=';')
 kable(head(bank_idx))
-bank_bal <- read.csv("C:\\Users\\nehas\\Documents\\GT 2023\\MGT 6203\\Project\\bank-full.csv", sep=';')
+bank_bal <- read.csv("C:\\Users\\...\\Project\\bank-full.csv", sep=';')
 kable(head(bank_bal))
 ```
 
